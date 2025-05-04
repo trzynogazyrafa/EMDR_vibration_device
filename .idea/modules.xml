@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmdrVibrationApp.iml" filepath="$PROJECT_DIR$/.idea/modules/EmdrVibrationApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/EmdrVibrationApp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.iml" filepath="$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/wear2/EmdrVibrationApp.wear2.unitTest.iml" />
+    </modules>
+  </component>
+</project>
